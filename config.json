@@ -1,0 +1,9 @@
+{
+        "auths": {
+                "https://index.docker.io/v1/": {
+                        "auth": "cG9zdG91dDc5Nzk6Vk13YXJlMSFWTQ=="
+                },
+                "tkgs-harbor.tanzu.lab": {
+                        "auth": "YWRtaW46SGFyYm9yMTIzNDU="
+                }
+        }
